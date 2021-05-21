@@ -286,12 +286,12 @@ if __name__ == "__main__":
 
     m_e = False
     fnam = 'models/Pretrained.pickle'
-    try:
-        model = torch.load(fnam)
-        model.eval()
-        m_e = True
-    except:
-        print(f'No pre-trained model {fnam} is found!')
+#     try:
+#         model = torch.load(fnam)
+#         model.eval()
+#         m_e = True
+#     except:
+#         print(f'No pre-trained model {fnam} is found!')
 
     if not m_e:
         model = DeepERA().to(device)
