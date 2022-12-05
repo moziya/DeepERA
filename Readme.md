@@ -41,7 +41,7 @@ bash run_DeepERA.sh
 
 ## Citation
 Please cite the following paper:
-- Le Li, Haiyuan Yu. DeepERA: deep learning enables comprehensive identification of drug-target interactions via embedding of heterogeneous data. Manuscript in submission, 2021.
+- Le Li, Shayne D. Wierbowski, Haiyuan Yu. DeepERA: deep learning enables comprehensive identification of drug-target interactions via embedding of heterogeneous data. Manuscript in submission.
 
 ## Contact
 Please contact me (ll863@cornell.edu) for any questions.
